@@ -1,2 +1,2 @@
 # graceful
-Graceful shutdown or restart your Golang service
+Shutdown or restart the Golang service gracefully.
